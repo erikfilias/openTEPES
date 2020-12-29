@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="345" height="195" src="https://github.com/SADSE-IIT/openTEPES/blob/master/doc/img/openTEPES_img.png">
+  <img width="345" height="195" src="https://github.com/erikfilias/openTEPES/blob/master/doc/img/openTEPES_img.png">
 </p>
 
 # 
